@@ -1,0 +1,127 @@
+<resources>
+
+    <string name="app_name">Cocktails</string>
+    <!-- MOJITO -->
+    <string name="cocktail_name_mojito">Mojito</string>
+    <string name="cocktail_desc_mojito">Rum, mięta, limonka, soda</string>
+    <string name="cocktail_instr_mojito">Ugnij limonkę z cukrem i miętą, dodaj rum, lód i uzupełnij sodą.</string>
+    <string-array name="cocktail_ingredients_mojito">
+        <item>60ml jasnego rumu</item>
+        <item>8-12 liści mięty</item>
+        <item>20ml syropu cukrowego</item>
+        <item>4 ćwiartki limonki</item>
+        <item>Uzupełnij sodą</item>
+    </string-array>
+
+    <!-- MARGARITA -->
+    <string name="cocktail_name_margarita">Margarita</string>
+    <string name="cocktail_desc_margarita">Tequila, likier pomarańczowy, limonka</string>
+    <string name="cocktail_instr_margarita">Wstrząśnij składniki z lodem i podawaj w schłodzonym kieliszku z solą na rancie.</string>
+    <string-array name="cocktail_ingredients_margarita">
+        <item>45ml tequili silver</item>
+        <item>30ml likieru pomarańczowego (Cointreau lub Triple sec)</item>
+        <item>22ml świeżo wyciśniętego soku z limonki</item>
+        <item>Sól do obramowania kieliszka</item>
+    </string-array>
+
+    <!-- PINA COLADA -->
+    <string name="cocktail_name_pina_colada">Piña Colada</string>
+    <string name="cocktail_desc_pina_colada">Rum, krem kokosowy, sok ananasowy</string>
+    <string name="cocktail_instr_pina_colada">Zmiksuj wszystkie składniki z lodem kruszonym do uzyskania kremowej konsystencji.</string>
+    <string-array name="cocktail_ingredients_pina_colada">
+        <item>60ml białego rumu</item>
+        <item>60ml kremu kokosowego</item>
+        <item>120ml soku ananasowego</item>
+        <item>Lód kruszony</item>
+    </string-array>
+
+    <!-- CAIPIRINHA -->
+    <string name="cocktail_name_caipirinha">Caipirinha</string>
+    <string name="cocktail_desc_caipirinha">Cachaça, limonka, cukier trzcinowy</string>
+    <string name="cocktail_instr_caipirinha">Rozgnieć limonkę z cukrem, dodaj cachaçę i lód, wymieszaj.</string>
+    <string-array name="cocktail_ingredients_caipirinha">
+        <item>60ml cachaçy</item>
+        <item>1 limonka pokrojona na 8 części</item>
+        <item>1,5 łyżki cukru trzcinowego</item>
+        <item>Lód w kostkach</item>
+    </string-array>
+
+    <!-- DAIQUIRI -->
+    <string name="cocktail_name_daiquiri">Daiquiri</string>
+    <string name="cocktail_desc_daiquiri">Rum, limonka, syrop cukrowy</string>
+    <string name="cocktail_instr_daiquiri">Wstrząśnij składniki z lodem i podawaj w schłodzonym kieliszku koktajlowym.</string>
+    <string-array name="cocktail_ingredients_daiquiri">
+        <item>60ml białego rumu</item>
+        <item>22ml soku z limonki</item>
+        <item>15ml syropu cukrowego</item>
+        <item>Lód</item>
+    </string-array>
+
+    <!-- OLD FASHIONED -->
+    <string name="cocktail_name_old_fashioned">Old Fashioned</string>
+    <string name="cocktail_desc_old_fashioned">Bourbon, cukier, angostura</string>
+    <string name="cocktail_instr_old_fashioned">Nasącz kostkę cukru angosturą i wodą, rozgnieć, dodaj whiskey i lód, wymieszaj.</string>
+    <string-array name="cocktail_ingredients_old_fashioned">
+        <item>45ml bourbonu lub whiskey żytniej</item>
+        <item>1 kostka cukru</item>
+        <item>2-3 krople Angostury</item>
+        <item>Odrobina wody</item>
+        <item>Lód w kostkach</item>
+    </string-array>
+
+    <!-- COSMOPOLITAN -->
+    <string name="cocktail_name_cosmopolitan">Cosmopolitan</string>
+    <string name="cocktail_desc_cosmopolitan">Wódka, likier pomarańczowy, sok żurawinowy</string>
+    <string name="cocktail_instr_cosmopolitan">Wstrząśnij składniki z lodem i podawaj w kieliszku koktajlowym ze skórką pomarańczy.</string>
+    <string-array name="cocktail_ingredients_cosmopolitan">
+        <item>60ml wódki (najlepiej cytrusowej)</item>
+        <item>15ml likieru pomarańczowego (Triple sec)</item>
+        <item>22ml soku żurawinowego</item>
+        <item>15ml świeżego soku z limonki</item>
+        <item>Skórka pomarańczowa do dekoracji</item>
+    </string-array>
+
+    <!-- MANHATTAN -->
+    <string name="cocktail_name_manhattan">Manhattan</string>
+    <string name="cocktail_desc_manhattan">Bourbon, wermut, angostura</string>
+    <string name="cocktail_instr_manhattan">Wymieszaj składniki z lodem, odcedź i podawaj z wisienką.</string>
+    <string-array name="cocktail_ingredients_manhattan">
+        <item>60ml bourbonu</item>
+        <item>20ml słodkiego wermutu</item>
+        <item>2 krople Angostury</item>
+        <item>Wisienka koktajlowa do dekoracji</item>
+    </string-array>
+
+    <!-- NEGRONI -->
+    <string name="cocktail_name_negroni">Negroni</string>
+    <string name="cocktail_desc_negroni">Gin, Campari, wermut</string>
+    <string name="cocktail_instr_negroni">Wymieszaj składniki z lodem, podawaj z plasterkiem pomarańczy.</string>
+    <string-array name="cocktail_ingredients_negroni">
+        <item>30ml ginu</item>
+        <item>30ml Campari</item>
+        <item>30ml słodkiego wermutu</item>
+        <item>Plasterek pomarańczy do dekoracji</item>
+    </string-array>
+
+
+    <!-- WHISKEY SOUR -->
+    <string name="cocktail_name_whiskey_sour">Whiskey Sour</string>
+    <string name="cocktail_desc_whiskey_sour">Whiskey, cytryna, syrop cukrowy</string>
+    <string name="cocktail_instr_whiskey_sour">Wstrząśnij mocno wszystkie składniki z lodem i podawaj w niskiej szklance.</string>
+    <string-array name="cocktail_ingredients_whiskey_sour">
+        <item>60ml whiskey</item>
+        <item>30ml świeżego soku z cytryny</item>
+        <item>15ml syropu cukrowego</item>
+        <item>15ml białka jajka (opcjonalnie)</item>
+        <item>Plasterek cytryny i wisienka do dekoracji</item>
+    </string-array>
+
+    <string name="cocktail_name_water_with_mint">Mint water</string>
+    <string name="cocktail_desc_water_with_mint">Woda, mięta</string>
+    <string name="cocktail_instr_water_with_mint">Wrzuć liście mięty do wody.</string>
+    <string-array name="cocktail_ingredients_water_with_mint">
+        <item>200ml wody</item>
+        <item>od 10 do 20 listków mięty</item>
+    </string-array>
+
+</resources>

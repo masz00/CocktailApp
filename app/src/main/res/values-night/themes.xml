@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Główny motyw aplikacji dla trybu ciemnego -->
+    <style name="Base.Theme.Cocktails" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Kolory dla ciemnego motywu -->
+        <item name="colorPrimary">@color/purple_200</item> <!-- Jaśniejszy primary dla ciemnego tła -->
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorPrimaryContainer">@color/purple_700</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item> <!-- Lub konkretny kolor -->
+        <!-- Upewnij się, że tu są kolory dla CIEMNEGO motywu -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:colorBackground">@color/black</item> <!-- Np. czarne lub bardzo ciemne tło -->
+        <item name="colorSurface">#121212</item> <!-- Typowe ciemne tło dla powierzchni Material -->
+        <item name="colorOnSurface">@color/white</item>
+        <!-- Itd. dla innych atrybutów Material 3 -->
+    </style>
+    <!-- Theme.Cocktails dziedziczy po Base.Theme.Cocktails, więc nie trzeba go tu redefiniować,
+         chyba że chcesz nadpisać coś specyficznie dla ciemnego Theme.Cocktails.
+         Linia <style name="Theme.Cocktails" parent="Base.Theme.Cocktails" />
+         w głównym themes.xml jest wystarczająca, bo Base.Theme.Cocktails jest już kwalifikowane dla -night. -->
+</resources>
