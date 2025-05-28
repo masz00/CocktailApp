@@ -1,6 +1,6 @@
-# CocktailApp 🍹
+# CocktailApp
 
-Aplikacja mobilna na Androida do przeglądania i zapisywania przepisów na koktajle. Projekt studencki (3 rok informatyka).
+Aplikacja mobilna na Androida do przeglądania koktajli. Projekt został wykonany na zajęcia laboratoryjne z przedmiotu Aplikacje Mobilne podczas 6 semestru.
 
 ## Spis treści
 
