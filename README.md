@@ -11,7 +11,7 @@ Aplikacja mobilna na Androida do przeglądania koktajli. Projekt został wykonan
 
 ## Opis
 
-CocktailApp pozwala na przeglądanie przepisów na koktajle alkoholowe i bezalkoholowe, dodawanie ich do ulubionych oraz korzystanie z minutnika podczas przygotowania napoju. Aplikacja jest responsywna na zmioane orientacji ekranu oraz dostowona do tabelta.
+CocktailApp pozwala na przeglądanie przepisów na koktajle alkoholowe i bezalkoholowe, dodawanie ich do ulubionych oraz korzystanie z minutnika podczas przygotowania napoju. Aplikacja jest responsywna na zmianę orientacji ekranu oraz dostosowana do tabletu.
 
 ## Funkcjonalności
 
